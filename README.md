@@ -10,6 +10,9 @@ A custom Chrome Extension that integrates Rotten Tomatoes critc and audience sco
 * **Dynamic Icons:** Dynamic icons that correspond with ratings.
 * **Direct Links:** Clicking the rating badge takes you directly to the Rotten Tomatoes page.
 
+## Screenshot
+![Extension in action](images/rating_example.png)
+
 ## Installation (Developer Mode)
 
 Since this is a custom extension, you need to load it manually into Chrome:
